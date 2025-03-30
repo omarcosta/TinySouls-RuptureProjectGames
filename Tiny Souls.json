@@ -62,7 +62,728 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_000.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_005.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_006.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_007.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_008.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_009.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_010.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_011.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_012.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_013.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_014.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_015.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_016.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_017.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_018.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_019.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_020.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_020.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_021.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_021.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_022.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_023.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_023.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_024.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_024.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_025.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_025.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_026.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_026.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_027.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_027.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_028.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_028.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Back/1 - Empty/Idle/0_Warrior_Idle_029.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Back\\1 - Empty\\Idle\\0_Warrior_Idle_029.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_000.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_005.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_006.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_007.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_008.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_009.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_010.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_011.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_012.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_013.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_014.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_015.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_016.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_017.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_018.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_019.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_020.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_020.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_021.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_021.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_022.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_023.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_023.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_024.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_024.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_025.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_025.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_026.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_026.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_027.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_027.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_028.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_028.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking - Copy/0_Warrior_Idle Blinking_029.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking - Copy\\0_Warrior_Idle Blinking_029.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_000.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_005.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_006.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_007.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_008.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_009.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_010.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_011.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_012.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_013.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_014.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_015.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_016.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_017.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_018.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_019.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_020.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_020.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_021.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_021.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_022.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_023.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_023.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_024.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_024.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_025.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_025.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_026.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_026.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_027.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_027.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_028.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_028.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/third-party/craftpix-901123-free-warrior-4-direction-character-sprites/Sprites/Front/1 - Empty/Idle Blinking/0_Warrior_Idle Blinking_029.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\third-party\\craftpix-901123-free-warrior-4-direction-character-sprites\\Sprites\\Front\\1 - Empty\\Idle Blinking\\0_Warrior_Idle Blinking_029.png",
+        "smoothed": false,
+        "userAdded": false
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],
@@ -92,7 +813,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.7670683331462553,
+        "zoomFactor": 0.9054184543308851,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -114,7 +835,7 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": true,
+          "isLocked": false,
           "name": "",
           "renderingType": "",
           "visibility": true,
@@ -215,7 +936,36 @@
           ]
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [],
