@@ -1,0 +1,14 @@
+/Tiny Souls
+  /assets
+    /fonts          --> Aqui você coloca suas fontes
+    /images         --> Imagens, como sprites, backgrounds, ícones, etc.
+    /sounds
+      /effects      --> Efeitos sonoros (sfx)
+      /music        --> Músicas de fundo
+    /animations     --> Animações (arquivos como spritesheets ou GIFs)
+    /textures       --> Texturas e outros efeitos
+    /third_party    --> Conteúdos de terceiros (imagens, sons, fontes, etc. que não são da RPG)
+  /scenes           --> Arquivos das cenas do GDevelop
+  /scripts          --> Scripts ou eventos personalizados
+  /docs             --> Documentação do jogo
+  /logs             --> Logs de erros ou outros tipos de logs para debug
